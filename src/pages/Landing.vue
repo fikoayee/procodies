@@ -1,7 +1,5 @@
 <template>
-  <v-app class="min-h-full min-w-full">
-    <RouterView />
-  </v-app>
+    <div>landing</div>
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
