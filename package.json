@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "axios": "^1.7.3",
+    "maska": "^3.0.0",
+    "v-mask": "^2.3.0",
     "vue": "^3.4.31",
     "vue-router": "^4.4.2"
   },
