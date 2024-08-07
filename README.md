@@ -17,3 +17,8 @@ To run the project, use the following command:
 ```bash
 npm run dev
 ```
+
+# Author
+
+Filip Dziubek
+___dziubekfilip@gmail.com___
